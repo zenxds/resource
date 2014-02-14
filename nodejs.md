@@ -5,3 +5,5 @@
 用 markdown写ppt
 
 	npm install -g nodeppt
+
+* [node-webkit开发桌面web混合型应用](http://damoqiongqiu.iteye.com/blog/2010720)

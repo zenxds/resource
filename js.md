@@ -6,6 +6,8 @@
 
 * [es6-promise](https://github.com/jakearchibald/es6-promise)
 
+* [es6-promise 介绍](http://www.html5rocks.com/zh/tutorials/es6/promises/)
+
 * [ieBetter](https://github.com/zhangxinxu/ieBetter.js)
 
 * [store.js](https://github.com/marcuswestin/store.js)

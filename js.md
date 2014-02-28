@@ -82,6 +82,10 @@ PPT, A framework for easily creating beautiful presentations using HTML
 * [sanitizer](https://github.com/zenxds/html-sanitizer)
 html标签过滤
 
+
+* [instantclick](https://github.com/dieulot/instantclick)
+利用鼠标移上链接跟点击的时间差预加载页面
+
 ### jQuery
 * [jQuery 插件设计的最佳实践，来自官方](http://learn.jquery.com/plugins/)
 
@@ -126,6 +130,11 @@ html标签过滤
 
 * [karma](https://github.com/karma-runner/karma)
 自动化测试框架
+
+* [nightwatch](https://github.com/beatfactor/nightwatch)
+UI自动测试框架
+
+* [totoro](http://totorojs.org/)
 
 ## 其他
 * [jsbook](https://github.com/RubyLouvre/jsbook)

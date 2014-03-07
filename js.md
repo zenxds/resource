@@ -126,8 +126,6 @@ html标签过滤
 
 ## 测试
 
-* [assert](https://github.com/Jxck/assert/blob/master/assert.js)
-
 * [karma](https://github.com/karma-runner/karma)
 自动化测试框架
 
@@ -135,6 +133,10 @@ html标签过滤
 UI自动测试框架
 
 * [totoro](http://totorojs.org/)
+
+### assertion library
+
+* [assert](https://github.com/Jxck/assert/blob/master/assert.js)
 
 ## 其他
 * [jsbook](https://github.com/RubyLouvre/jsbook)

@@ -1,5 +1,9 @@
 ﻿## js
 
+## 学习资源
+
+[js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+
 ### shim
 
 * [es5-shim](https://github.com/kriskowal/es5-shim)
@@ -17,6 +21,10 @@
 
 * [placeholder](https://github.com/mathiasbynens/jquery-placeholder)
 
+* [rangeslider](https://github.com/andreruffert/rangeslider.js/blob/develop/dist/rangeslider.js)
+input range
+
+
 ### 功能
 
 * [greensock](https://github.com/greensock/GreenSock-JS)
@@ -25,6 +33,11 @@
 
 * [gridster](https://github.com/ducksboard/gridster.js)
 通过拖动来布局
+
+* [messenger](https://github.com/HubSpot/messenger)
+消息提醒
+
+* [modernizr](http://modernizr.com/)
 
 * select2
 
@@ -39,6 +52,9 @@ flash播放
 
 * [scrollMonitor](https://github.com/sakabako/scrollMonitor)
 监听元素出现在视口
+
+* [slick](https://github.com/kenwheeler/slick)
+the last carousel you'll ever need
 
 * [countUp](https://github.com/inorganik/countUp.js)
 数字增长或减小动画
@@ -115,9 +131,6 @@ html标签过滤
 
 * [animatescroll.js](https://github.com/ramswaroop/animatescroll.js)
 点击链接后，可以滚动到指定ID或class的DOM元素
-
-* [hammer.js](https://github.com/EightMedia/hammer.js/)
-多点触摸手势库
 
 * [equalize](http://tsvensen.github.io/equalize.js/)
 让元素等高或等宽，支持IE8+

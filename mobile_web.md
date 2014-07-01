@@ -7,3 +7,6 @@ Smooth scrolling for the web
 
 * [mars](https://github.com/AlloyTeam/Mars)
 腾讯移动web解决方案
+
+* [hammer.js](https://github.com/EightMedia/hammer.js/)
+多点触摸手势库

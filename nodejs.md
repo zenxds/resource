@@ -9,3 +9,7 @@
 	npm install -g nodeppt
 
 * [node-webkit开发桌面web混合型应用](http://damoqiongqiu.iteye.com/blog/2010720)
+
+* http-server
+
+[http-server](https://github.com/nodeapps/http-server.git)

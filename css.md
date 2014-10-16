@@ -24,8 +24,6 @@ css buttons
 
 ## 学习资源
 
-* [css动画简介](http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
-
 * [负margin](http://www.smallni.com/negative-margin/)
 
 * [margin系列之与相对偏移的异同](http://www.ituring.com.cn/article/64582)
@@ -33,8 +31,6 @@ css buttons
 * [学习css布局](http://zh.learnlayout.com/)
 
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/)
-
-* [oocss](http://oocss.org/)
 
 * [多行文本垂直居中](http://www.iyunlu.com/view/css-xhtml/77.html)
 

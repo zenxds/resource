@@ -10,3 +10,10 @@ Smooth scrolling for the web
 
 * [hammer.js](https://github.com/EightMedia/hammer.js/)
 多点触摸手势库
+
+* [swipe](https://github.com/thebird/Swipe)
+
+移动端轮播
+
+    // transition路线
+    cubic-bezier(0.42, 0, 0.58, 1)

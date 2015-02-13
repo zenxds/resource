@@ -41,6 +41,7 @@ DigitalOcean/linode
 
 * [KindEditor](http://www.kindsoft.net/)
 * [pen](https://github.com/sofish/pen)
+* [UEditor](http://ueditor.baidu.com/website/) 百度出品
 
 ### project
 

@@ -50,6 +50,8 @@ input range
 * [swfobject](https://github.com/swfobject/swfobject)
 flash播放
 
+* [videojs](http://www.videojs.com/)
+
 * [scrollMonitor](https://github.com/sakabako/scrollMonitor)
 监听元素出现在视口
 

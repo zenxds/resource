@@ -8,10 +8,11 @@
 
 * Proxy SwitchySharp
 
-goagent 不解释
+代理管理
 
 * [fehelper](http://www.baidufe.com/fehelper)
-一些前端实用的工具
+
+百度出品，一些前端实用的工具
 
 * lastPass
 

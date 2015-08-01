@@ -7,6 +7,7 @@
 * Mozilla Thunderbird 邮件客户端
 * DNSCrypt 防止DNS污染
 
+## mac
 
 ## linux
 * Gparted 分区

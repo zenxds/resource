@@ -9,6 +9,11 @@
 
 ## mac
 
+* Dash 程序员文档必备
+* alfred
+* caffeine 不锁屏
+* manico
+
 ## linux
 * Gparted 分区
 # ChmSee - chm文件查看，乱码时修改编码即可

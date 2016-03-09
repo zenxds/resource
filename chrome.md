@@ -22,10 +22,6 @@
 
 去广告
 
-* ActiveX for Chrome
-
-在Chrome中使用ActiveX控件
-
 * Anything to QRcode
 
 能够为 Chrome 打开的网页生成二维码，包括当前页面地址、选中的文本、链接、图片地址等等

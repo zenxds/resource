@@ -1,10 +1,8 @@
 ## common
 * filezilla - FTP
-* goagent - 翻墙
 * xmind - 思维导图
 * dropbox
 * virtual-box
-* Mozilla Thunderbird 邮件客户端
 * DNSCrypt 防止DNS污染
 
 ## mac
@@ -15,15 +13,13 @@
 * manico
 
 ## linux
+
 * Gparted 分区
 # ChmSee - chm文件查看，乱码时修改编码即可
 
 ## windows
-* css satyr - css sprite 代码生成
-* vstart
-* nt6 hdd -- 装系统
+
 * putty/xshell -- ssh
-* Cygwin
 * diskgenius 硬盘格式化
 * navicat for mysql
 * TortoiseGit
@@ -31,17 +27,12 @@
 
 ## web
 
+* disqus
+* DigitalOcean/linode
+
 ### document
 
 readthedocs、github 、sphinx
-
-### comment
-
-disqus
-
-### vps
-
-DigitalOcean/linode
 
 ### editor
 

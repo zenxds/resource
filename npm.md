@@ -1,3 +1,9 @@
 
     # caniuse cmd版
-    npm install -g caniuse-cmd
+    caniuse-cmd
+
+    # classnames
+    classnames
+
+    # nodeppt
+    nodeppt

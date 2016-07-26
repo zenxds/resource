@@ -11,6 +11,7 @@
 * alfred
 * caffeine 不锁屏
 * manico
+# f.lux 保护眼睛
 
 ## linux
 
@@ -39,6 +40,9 @@ readthedocs、github 、sphinx
 * [KindEditor](http://www.kindsoft.net/)
 * [pen](https://github.com/sofish/pen)
 * [UEditor](http://ueditor.baidu.com/website/) 百度出品
+
+Monaco
+CodeMirror
 
 ### project
 

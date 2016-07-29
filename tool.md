@@ -1,8 +1,8 @@
 ## common
+
 * filezilla - FTP
 * xmind - 思维导图
 * dropbox
-* virtual-box
 * DNSCrypt 防止DNS污染
 
 ## mac
@@ -15,9 +15,6 @@
 
 ## linux
 
-* Gparted 分区
-# ChmSee - chm文件查看，乱码时修改编码即可
-
 ## windows
 
 * putty/xshell -- ssh
@@ -29,7 +26,7 @@
 ## web
 
 * disqus
-* DigitalOcean/linode
+* DigitalOcean/linode/bandwagon
 
 ### document
 
@@ -40,9 +37,8 @@ readthedocs、github 、sphinx
 * [KindEditor](http://www.kindsoft.net/)
 * [pen](https://github.com/sofish/pen)
 * [UEditor](http://ueditor.baidu.com/website/) 百度出品
-
-Monaco
-CodeMirror
+* Monaco
+* CodeMirror
 
 ### project
 

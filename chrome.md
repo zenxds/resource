@@ -1,12 +1,8 @@
-* [reres](http://www.cssha.com/reres)
-
-让chrome拥有路径映射的autoResponse功能
-
 * GistBox Clipper
 
 管理gist
 
-* Proxy SwitchySharp
+* SwitchyOmega
 
 代理管理
 

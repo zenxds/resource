@@ -32,6 +32,8 @@
 
 readthedocs、github 、sphinx
 
+* [slate](https://github.com/lord/slate)
+
 ### editor
 
 * [KindEditor](http://www.kindsoft.net/)
@@ -39,6 +41,7 @@ readthedocs、github 、sphinx
 * [UEditor](http://ueditor.baidu.com/website/) 百度出品
 * Monaco
 * CodeMirror
+* [ace](https://github.com/ajaxorg/ace)
 
 ### project
 

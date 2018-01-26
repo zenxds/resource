@@ -6,3 +6,5 @@
 * PyQuery py版本的jquery
 
 * python-wordpress-xmlrpc 远程发布WordPress
+
+* pip install pyftpdlib FTP服务器

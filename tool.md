@@ -41,6 +41,8 @@ readthedocs、github 、sphinx
 * [UEditor](http://ueditor.baidu.com/website/) 百度出品
 * Monaco
 * CodeMirror
+* trix
+* draft-js
 * [ace](https://github.com/ajaxorg/ace)
 
 ### project
@@ -54,3 +56,7 @@ Redmine 是一个开源基于 Web 的项目管理和 Bug 跟踪工具，在实�
 [gollum](https://github.com/gollum/gollum.git)
 
 github 使用的wiki
+
+confluence
+
+swagger

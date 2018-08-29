@@ -1,7 +1,6 @@
 ## common
 
 * filezilla - FTP
-* xmind - 思维导图
 * dropbox
 * DNSCrypt 防止DNS污染
 
@@ -11,7 +10,7 @@
 * alfred
 * caffeine 不锁屏
 * manico
-# f.lux 保护眼睛
+* ProxyChains-NG
 
 ## linux
 
@@ -28,12 +27,6 @@
 * disqus
 * DigitalOcean/linode/bandwagon
 
-### document
-
-readthedocs、github 、sphinx
-
-* [slate](https://github.com/lord/slate)
-
 ### editor
 
 * [KindEditor](http://www.kindsoft.net/)
@@ -43,6 +36,7 @@ readthedocs、github 、sphinx
 * CodeMirror
 * trix
 * draft-js
+* quill
 * [ace](https://github.com/ajaxorg/ace)
 
 ### project
@@ -60,3 +54,9 @@ github 使用的wiki
 confluence
 
 swagger
+
+### site
+
+* [gatsby](https://github.com/gatsbyjs/gatsby)
+* [slate](https://github.com/lord/slate)
+* [hexo](https://hexo.io/zh-cn/docs/index.html)

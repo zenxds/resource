@@ -3,6 +3,7 @@
 * filezilla - FTP
 * dropbox
 * DNSCrypt 防止DNS污染
+* QGIS
 
 ## mac
 
@@ -29,12 +30,10 @@
 
 ### editor
 
-* [KindEditor](http://www.kindsoft.net/)
 * [pen](https://github.com/sofish/pen)
-* [UEditor](http://ueditor.baidu.com/website/) 百度出品
-* Monaco
+* [Monaco](https://microsoft.github.io/monaco-editor/index.html)
 * CodeMirror
-* trix
+* [trix](https://github.com/basecamp/trix)
 * draft-js
 * quill
 * [ace](https://github.com/ajaxorg/ace)
@@ -60,3 +59,8 @@ swagger
 * [gatsby](https://github.com/gatsbyjs/gatsby)
 * [slate](https://github.com/lord/slate)
 * [hexo](https://hexo.io/zh-cn/docs/index.html)
+
+
+### 集成
+
+Phabricator

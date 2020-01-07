@@ -1,7 +1,7 @@
 ## common
 
 * filezilla - FTP
-* dropbox
+* Motrix - 下载
 * DNSCrypt 防止DNS污染
 * QGIS
 
@@ -12,8 +12,12 @@
 * caffeine 不锁屏
 * manico
 * ProxyChains-NG
+* sequelpro
 
 ## linux
+
+* rsync
+* [setup-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
 
 ## windows
 
@@ -22,6 +26,7 @@
 * navicat for mysql
 * TortoiseGit
 * PowerCmd
+* proxifier 代理
 
 ## web
 
@@ -38,19 +43,10 @@
 * quill
 * [ace](https://github.com/ajaxorg/ace)
 
-### project
-
-* redmine
-
-Redmine 是一个开源基于 Web 的项目管理和 Bug 跟踪工具，在实际开发中，用的最多的就是 Wiki 和 Bug 跟踪。
-
 ### wiki
 
-[gollum](https://github.com/gollum/gollum.git)
-
-github 使用的wiki
-
-confluence
+* [gollum](https://github.com/gollum/gollum.git)
+* confluence
 
 swagger
 
